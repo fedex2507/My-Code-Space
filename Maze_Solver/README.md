@@ -40,16 +40,15 @@ Welcome to the **PacMan Maze Solver**, a project designed to find the optimal pa
 ---
 
 ## Project Structure  
-- `maze_solver.py`: Main file containing the DFS-based algorithm implementation.  
-- `exceptions.py`: Module defining custom exceptions for handling edge cases.  
-- `README.md`: Comprehensive guide to the project.  
-- `test_cases/`: Directory with sample maze grids for testing.  
-- `docs/`: Documentation explaining the algorithm in depth.  
+- `navigator.py`: Main file containing the DFS-based algorithm implementation.  
+- `exceptions.py`: Module defining custom exceptions for handling edge cases.
+- `maze.py` : File containing maze class implementation
+- `README.md`: Comprehensive guide to the project. 
 
 ---
 
 ## Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/PacMan-Maze-Solver.git  
+   git clone https://github.com/ShogunYash/My-Code-Space/Maze_Solver.git  
 
